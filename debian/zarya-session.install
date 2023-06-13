@@ -1,0 +1,7 @@
+#!/usr/bin/dh-exec
+usr/lib/systemd/user/gnome-session@zarya.target.d/*
+usr/share/gnome-session/sessions/zarya.session
+usr/share/wayland-sessions/zarya.desktop
+usr/share/wayland-sessions/zarya-wayland.desktop
+usr/share/xsessions/zarya.desktop
+usr/share/xsessions/zarya-xorg.desktop
