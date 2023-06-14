@@ -1,3 +1,9 @@
+gnome-session (44.0-1zarya2) lunar; urgency=medium
+
+  * Update session patch to include zarya
+
+ -- Muqtadir <muqtadir5555@gmail.com>  Wed, 14 Jun 2023 16:36:32 +0530
+
 gnome-session (44.0-1ubuntu1) lunar; urgency=medium
 
   * Merge with Debian. Remaining changes:
